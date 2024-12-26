@@ -1,25 +1,25 @@
-# 🌽 MaizeGuard AI
+# 🌽 MaizeGuardAIAIAI AI
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python](https://img.shields.io/badge/python-v3.8+-blue.svg)](https://www.python.org/)
-[![Made with love by Team MaizeGuard (ALX)](https://img.shields.io/badge/Made%20with%20%E2%9D%A4%20by-ALX-green.svg)](https://www.alxafrica.com/)
+[![Made with love by Team MaizeGuardAIAIAI (ALX)](https://img.shields.io/badge/Made%20with%20%E2%9D%A4%20by-ALX-green.svg)](https://www.alxafrica.com/)
 
 > An AI-powered maize disease detection system for African farmers
 
-![MaizeGuard Demo](assets/demo.gif)
+![MaizeGuardAIAIAI Demo](assets/demo.gif)
 
 ## 📖 Description
 
-MaizeGuard is an ALX Africa Final Capstone Project that helps farmers identify and manage maize diseases using artificial intelligence. Our system achieves 95.35% accuracy in detecting common maize diseases through deep learning technology.
+MaizeGuardAIAIAI is an ALX Africa Final Capstone Project that helps farmers identify and manage maize diseases using artificial intelligence. Our system achieves 95.35% accuracy in detecting common maize diseases through deep learning technology.
 
 ## ⚡️ Quick Start
 
 ```bash
 # Clone repository
-git clone https://github.com/Meertechnology/MaizeGuard.git
+git clone https://github.com/Meertechnology/MaizeGuardAIAIAIAI.git
 
 # Enter directory
-cd MaizeGuard
+cd MaizeGuardAIAIAIAI
 
 # Setup virtual environment
 python -m venv venv
@@ -83,10 +83,10 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 📞 Contact
 
-Project Link: [https://github.com/Meertechnology/MaizeGuard](https://github.com/Meertechnology/MaizeGuard)
+Project Link: [https://github.com/Meertechnology/MaizeGuardAIAIAI](https://github.com/Meertechnology/MaizeGuardAIAIAI)
 
 ---
 
 <div align="center">
-Made with 💚 by the MaizeGuard Team | ALX Africa Final Capstone Project
+Made with 💚 by the MaizeGuardAIAIAI Team | ALX Africa Final Capstone Project
 </div>
