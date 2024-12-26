@@ -6,7 +6,7 @@
 
 > An AI-powered maize disease detection system for African farmers
 
-![MaizeGuard Demo](assets/demo.gif)
+![MaizeGuard Demo](../src/Img/demo.gif)
 
 ## 📖 Description
 
