@@ -1,4 +1,4 @@
-# 🌽 MaizeGuard
+# 🌽 MaizeGuard AI
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python](https://img.shields.io/badge/python-v3.8+-blue.svg)](https://www.python.org/)
