@@ -12,10 +12,10 @@ def test_backend(api_url, image_path):
         with open(image_path, "rb") as image_file:
             # Prepare the file payload
             files = {"file": image_file}
-            
+
             # Send POST request to the backend
             response = requests.post(api_url, files=files)
-            
+
             # Check if the request was successful
             if response.status_code == 200:
                 print("Response from backend:")
