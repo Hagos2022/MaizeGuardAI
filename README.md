@@ -66,7 +66,7 @@ Then visit `http://localhost:5000`
 ## 👥 Team
 
 - **Fatima Haruna Imam** - Frontend & UI ([GitHub](https://github.com/FatimaHarunaImam))
-- **Hagos Mehari** - Frontend ([GitHub](https://github.com/Hagos2022))
+- **Hagos Mehari** - Frontend & UX ([GitHub](https://github.com/Hagos2022))
 - **Mahmud Sani Madobi** - Backend & AI ([GitHub](https://github.com/meertechnology01))
 
 ## 🤝 Contributing
