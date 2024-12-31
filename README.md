@@ -4,7 +4,7 @@
 [![Python](https://img.shields.io/badge/python-v3.8+-blue.svg)](https://www.python.org/)
 [![Made with love by ALX](https://img.shields.io/badge/Made%20with%20%E2%9D%A4%20by-MGAI-green.svg)](https://www.alxafrica.com/)
 
-> An AI-powered maize disease detection system for African farmers
+> An AI-powered maize disease detection system for farmers
 
 ![MaizeGuard Demo](../src/Img/demo.gif)
 
