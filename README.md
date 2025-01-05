@@ -83,7 +83,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 📞 Contact
 
-Project Link: [https://github.com/Meertechnology/MaizeGuard](https://github.com/Meertechnology/MaizeGuardAI)
+Project Link: [https://github.com/Meertechnology01/MaizeGuard](https://github.com/Meertechnology01/MaizeGuardAI)
 
 ---
 
